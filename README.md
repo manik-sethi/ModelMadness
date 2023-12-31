@@ -244,3 +244,6 @@ Here are the results from the notebook!
 | 10   | K-Nearest Neighbors     | N/A       |
 
 
+
+In our analysis of models used for detecting breast cancer, we observed varying performance across different evaluation metrics. Logistic Regression demonstrated the highest AUC score, indicating excellent overall model performance. Neural Network and AdaBoost closely followed with competitive AUC scores. Regarding F1 scores, Logistic Regression, Neural Network, and AdaBoost again showcased top-tier performance. These findings suggest that these models, particularly Logistic Regression, Neural Network, and AdaBoost, are promising candidates for breast cancer detection. However, further considerations, such as interpretability and computational complexity, should inform the final choice of the model for practical implementation in a clinical setting.
+
