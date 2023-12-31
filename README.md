@@ -221,29 +221,30 @@ Model: Logistic Regression
 ## Final Rankings by f1
 | Rank | Model                   | F1-Score |
 |------|-------------------------|----------|
-| 1    | Neural Network          | 0.98     |
-| 2    | Gradient Boosting       | 0.97     |
-| 3    | Random Forest           | 0.97     |
+| 1    | Logistic Regression     | 0.98     |
+| 2    | Neural Network          | 0.98     |
+| 3    | AdaBoost                | 0.98     |
 | 4    | XGBoost                 | 0.97     |
-| 5    | AdaBoost                | 0.98     |
-| 6    | Logistic Regression     | 0.98     |
-| 7    | Decision Tree           | 0.92     |
-| 8    | Support Vector Machine  | 0.96     |
+| 5    | Gradient Boosting       | 0.97     |
+| 6    | Random Forest           | 0.97     |
+| 7    | Support Vector Machine  | 0.96     |
+| 8    | Naive Bayes             | 0.94     |
 | 9    | K-Nearest Neighbors     | 0.94     |
-| 10   | Naive Bayes             | 0.94     |
+| 10   | Decision Tree           | 0.92     |
 
 
 ## Final Rankings by AUC
 | Rank | Model                   | AUC Score |
 |------|-------------------------|-----------|
-| 1    | Neural Network          | 0.9969    |
-| 2    | Gradient Boosting       | 0.9957    |
-| 3    | Random Forest           | 0.9967    |
-| 4    | XGBoost                 | 0.9944    |
-| 5    | AdaBoost                | 0.9962    |
-| 6    | Logistic Regression     | 0.9981    |
-| 7    | Decision Tree           | N/A       |
-| 8    | Support Vector Machine  | 0.9965    |
-| 9    | K-Nearest Neighbors     | N/A       |
-| 10   | Naive Bayes             | 0.9927    |
+| 1    | Logistic Regression     | 0.9981    |
+| 2    | Neural Network          | 0.9969    |
+| 3    | AdaBoost                | 0.9962    |
+| 4    | Random Forest           | 0.9967    |
+| 5    | Gradient Boosting       | 0.9957    |
+| 6    | XGBoost                 | 0.9944    |
+| 7    | Support Vector Machine  | 0.9965    |
+| 8    | Naive Bayes             | 0.9927    |
+| 9    | Decision Tree           | N/A       |
+| 10   | K-Nearest Neighbors     | N/A       |
+
 
