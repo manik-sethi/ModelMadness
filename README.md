@@ -21,8 +21,10 @@ Classification Report:
 | Class 1           | 0.99      | 0.98   | 0.99     | 108     |
 | Accuracy          |           |        | 0.98     | 171     |
 | Macro Avg         | 0.98      | 0.98   | 0.98     | 171     |
-| Weighted Avg      | 0.98      | 0.98   | 0.98     | 171     |
+| Weighted Avg      | 0.98      | 0.98   | 0.98     |         |
+|-------------------|-----------|--------|----------|---------|
 | AUC Score         |           |        |          | 0.998   |
+
 
 
 Logistic Regression has a precision of 0.97, a recal of 0.98 and an f1 score of 0.98
