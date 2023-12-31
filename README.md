@@ -1,6 +1,6 @@
 # Comparing 10 different machine learning models to find the best one for breast cancer classification
 
-Here are the results from the notebook!
+Here are the results from the notebook! Feel free to run in your own.
 
 ## Logistic Regression
 
