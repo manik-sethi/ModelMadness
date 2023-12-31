@@ -8,13 +8,13 @@ Results from the notebook:
 
 Model: Logistic Regression
 
-Confusion Matrix:
+**Confusion Matrix:**
 |                 | Predicted Class 0 | Predicted Class 1 |
 |-----------------|-------------------|-------------------|
 | Actual Class 0  | 62                | 1                 |
 | Actual Class 1  | 2                 | 106               |
 
-Classification Report:
+**Classification Report:**
 |                   | Precision | Recall | F1-Score | Support |
 |-------------------|-----------|--------|----------|---------|
 | Class 0           | 0.97      | 0.98   | 0.98     | 63      |
