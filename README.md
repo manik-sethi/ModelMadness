@@ -7,9 +7,12 @@ Logistic Regressino is a machine learning model that is good for categorizing nu
 Results from the notebook:
 
 Model: Logistic Regression
-Confusion Matrix
-[ 62   1]
-[  2 106]]
+Confusion Matrix:
+|                 | Predicted Class 0 | Predicted Class 1 |
+|-----------------|-------------------|-------------------|
+| Actual Class 0  | 62                | 1                 |
+| Actual Class 1  | 2                 | 106               |
+
 Classification Report:
 |                   | Precision | Recall | F1-Score | Support |
 |-------------------|-----------|--------|----------|---------|
