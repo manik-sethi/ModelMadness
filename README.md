@@ -11,16 +11,15 @@ Confusion Matrix
 [ 62   1]
 [  2 106]]
 Classification Report:
-              precision    recall  f1-score   support
+|                   | Precision | Recall | F1-Score | Support |
+|-------------------|-----------|--------|----------|---------|
+| Class 0           | 0.97      | 0.98   | 0.98     | 63      |
+| Class 1           | 0.99      | 0.98   | 0.99     | 108     |
+| Accuracy          |           |        | 0.98     | 171     |
+| Macro Avg         | 0.98      | 0.98   | 0.98     | 171     |
+| Weighted Avg      | 0.98      | 0.98   | 0.98     | 171     |
+| AUC Score         |           |        |          | 0.998   |
 
-           0       0.97      0.98      0.98        63
-           1       0.99      0.98      0.99       108
-
-    accuracy                           0.98       171
-   macro avg       0.98      0.98      0.98       171
-weighted avg       0.98      0.98      0.98       171
-
-AUC Score 0.9980893592004703
 
 Logistic Regression has a precision of 0.97, a recal of 0.98 and an f1 score of 0.98
 
