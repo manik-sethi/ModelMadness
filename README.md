@@ -25,9 +25,8 @@ Classification Report:
 | AUC Score         |           |        |          | 0.998   |
 
 AUC Score:
-|                 | Predicted Class 0 | 
-|-----------------|-------------------|
-| AUC Score | 0.9980893592004703|
+|AUC Score| 0.9980893592004703 | 
+
 
 
 
