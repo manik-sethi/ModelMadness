@@ -23,7 +23,7 @@ Model: Logistic Regression
 | Macro Avg         | 0.98      | 0.98   | 0.98     | 171     |
 | Weighted Avg      | 0.98      | 0.98   | 0.98     |         |
 
-AUC Score:
+**AUC Score:**
 |AUC Score| 0.9980893592004703 | 
 |-------------------|-----------|
 
@@ -49,6 +49,26 @@ AUC Score:
 | AUC Score         | 0.9776601998824221 |
 |-------------------|---------------------|
 
+**Model: Support Vector Machine**
+
+**Confusion Matrix:**
+|                 | Predicted Class 0 | Predicted Class 1 |
+|-----------------|-------------------|-------------------|
+| Actual Class 0  | 61                | 2                 |
+| Actual Class 1  | 3                 | 105               |
+
+**Classification Report:**
+|                   | Precision | Recall | F1-Score | Support |
+|-------------------|-----------|--------|----------|---------|
+| Class 0           | 0.95      | 0.97   | 0.96     | 63      |
+| Class 1           | 0.98      | 0.97   | 0.98     | 108     |
+| Accuracy          |           |        | 0.97     | 171     |
+| Macro Avg         | 0.97      | 0.97   | 0.97     | 171     |
+| Weighted Avg      | 0.97      | 0.97   | 0.97     |         |
+
+**AUC Score:**
+| AUC Score         | 0.9964726631393297 |
+|-------------------|---------------------|
 
 
 Final Rankings by f1
